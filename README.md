@@ -7,7 +7,7 @@
 > [React example](https://github.com/christiannwamba/scotch-player)
 
 ## Setup
-You will need to acquire a client id from Soundcloud and adding it to the Container.vue file as necessary
+You will need to acquire a client id from Soundcloud and add it to the Container.vue file as necessary
 
 ## Build Setup
 
