@@ -135,7 +135,7 @@
                 position: 0,
                 playFromPosition: 9,
                 tracks: [],
-                client_id: 'ec753ed8093e50f4835c17ba02dcaae9',
+                client_id: '', //YOU NEED A CLIENT ID HERE!
                 url: '',
                 searchUrl: '',
                 audio: new Audio(),
