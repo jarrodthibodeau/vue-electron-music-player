@@ -11,7 +11,9 @@ function createWindow() {
 
     if (process.env.NODE_ENV === 'production') {
         win.loadURL(url.format({
-            pathname: path.join(__dirname, 'dist/index.html')
+            pathname: path.join(__dirname, 'dist/index.html'),
+            protocol: 'file:',
+            slashes: true
         }));
     } else {
         win.loadURL('http://localhost:8080');
